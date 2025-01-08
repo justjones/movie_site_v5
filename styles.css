@@ -37,7 +37,7 @@ input {
     border-radius: 4px;
     margin-bottom: 20px;
     padding: 5px;
-    width: 60%;
+    width: 40%;
 }
 
 input:focus {
@@ -58,7 +58,7 @@ button:active {
 }
 
 .image-container {
-    width: 90%;
+    width: 50%;
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(220px,0.4fr));
     gap: 20px; 
